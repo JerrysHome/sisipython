@@ -4,7 +4,7 @@
 sisipython修改其他版本速度而来，8-9秒一题，5分钟完成一轮答题，和人工答题速度差不多一致
 
 
-#手机运行需要termux,安卓版下载地址:https://f-droid.org/repo/com.termux_108.apk
+#手机运行需要termux,安卓版下载官网地址:https://f-droid.org/
 
 
 #手机运行python方法请看https://mp.weixin.qq.com/s/4q_oZoV8qpjMJRjEi3T8hQ
